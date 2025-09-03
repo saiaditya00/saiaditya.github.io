@@ -6,7 +6,10 @@
     "description": "Framed in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
     "year": 1994,
     "rating": 8.7,
-    "genre": ["Drama", "Crime"]
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 238,
@@ -15,7 +18,10 @@
     "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone, barely survives an attempt on his life, his youngest son, Michael, steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
     "year": 1972,
     "rating": 8.7,
-    "genre": ["Drama", "Crime"]
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 240,
@@ -24,7 +30,10 @@
     "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
     "year": 1974,
     "rating": 8.6,
-    "genre": ["Drama", "Crime"]
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 424,
@@ -33,7 +42,11 @@
     "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
     "year": 1993,
     "rating": 8.6,
-    "genre": ["Drama", "History", "War"]
+    "genre": [
+      "Drama",
+      "History",
+      "War"
+    ]
   },
   {
     "id": 129,
@@ -42,7 +55,11 @@
     "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
     "year": 2001,
     "rating": 8.5,
-    "genre": ["Animation", "Family", "Fantasy"]
+    "genre": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "id": 389,
@@ -51,7 +68,9 @@
     "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young man is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
     "year": 1957,
     "rating": 8.5,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 19404,
@@ -60,7 +79,11 @@
     "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
     "year": 1995,
     "rating": 8.5,
-    "genre": ["Comedy", "Drama", "Romance"]
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "id": 496243,
@@ -69,7 +92,11 @@
     "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
     "year": 2019,
     "rating": 8.5,
-    "genre": ["Comedy", "Thriller", "Drama"]
+    "genre": [
+      "Comedy",
+      "Thriller",
+      "Drama"
+    ]
   },
   {
     "id": 155,
@@ -78,7 +105,12 @@
     "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
     "year": 2008,
     "rating": 8.5,
-    "genre": ["Drama", "Action", "Crime", "Thriller"]
+    "genre": [
+      "Drama",
+      "Action",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "id": 497,
@@ -87,7 +119,11 @@
     "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
     "year": 1999,
     "rating": 8.5,
-    "genre": ["Fantasy", "Drama", "Crime"]
+    "genre": [
+      "Fantasy",
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 372058,
@@ -96,7 +132,11 @@
     "description": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
     "year": 2016,
     "rating": 8.5,
-    "genre": ["Romance", "Animation", "Drama"]
+    "genre": [
+      "Romance",
+      "Animation",
+      "Drama"
+    ]
   },
   {
     "id": 680,
@@ -105,7 +145,10 @@
     "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
     "year": 1994,
     "rating": 8.5,
-    "genre": ["Thriller", "Crime"]
+    "genre": [
+      "Thriller",
+      "Crime"
+    ]
   },
   {
     "id": 122,
@@ -114,7 +157,11 @@
     "description": "Aragorn is revealed as the heir to the ancient kings of Gondor, and Gandalf miraculously returns and defeats the evil wizard, Saruman. Together they rally the free peoples of Middle Earth for the ultimate battle against Sauron's army. As the fate of all hangs in the balance, Frodo and Sam edge closer to Mount Doom, the only place where the One Ring can be destroyed.",
     "year": 2003,
     "rating": 8.5,
-    "genre": ["Adventure", "Fantasy", "Action"]
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ]
   },
   {
     "id": 13,
@@ -123,7 +170,11 @@
     "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
     "year": 1994,
     "rating": 8.5,
-    "genre": ["Comedy", "Drama", "Romance"]
+    "genre": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "id": 550,
@@ -132,7 +183,9 @@
     "description": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
     "year": 1999,
     "rating": 8.4,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 77338,
@@ -141,7 +194,10 @@
     "description": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
     "year": 2011,
     "rating": 8.4,
-    "genre": ["Drama", "Comedy"]
+    "genre": [
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "id": 121,
@@ -150,7 +206,11 @@
     "description": "Frodo and Sam are trekking to Mordor to destroy the One Ring of Power while Gimli, Legolas and Aragorn search for theorc-captured Merry and Pippin. All along, nefarious wizard Saruman awaits the Fellowship members at the Orthanc Tower in Isengard.",
     "year": 2002,
     "rating": 8.4,
-    "genre": ["Adventure", "Fantasy", "Action"]
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ]
   },
   {
     "id": 120,
@@ -159,7 +219,11 @@
     "description": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
     "year": 2001,
     "rating": 8.4,
-    "genre": ["Adventure", "Fantasy", "Action"]
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ]
   },
   {
     "id": 429,
@@ -168,7 +232,9 @@
     "description": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a hidden treasure.",
     "year": 1966,
     "rating": 8.4,
-    "genre": ["Western"]
+    "genre": [
+      "Western"
+    ]
   },
   {
     "id": 27205,
@@ -177,7 +243,11 @@
     "description": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
     "year": 2010,
     "rating": 8.4,
-    "genre": ["Action", "Science Fiction", "Adventure"]
+    "genre": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "id": 346,
@@ -186,7 +256,10 @@
     "description": "A samurai answers a village's request for protection after he falls on hard times. The town needs protection from bandits, so the samurai gathers six others to help him teach the people how to defend themselves, and the villagers provide the soldiers with food.",
     "year": 1954,
     "rating": 8.4,
-    "genre": ["Action", "Drama"]
+    "genre": [
+      "Action",
+      "Drama"
+    ]
   },
   {
     "id": 769,
@@ -195,7 +268,10 @@
     "description": "The true story of Henry Hill, a half-Irish, half-Sicilian Brooklyn kid who is adopted by neighbourhood gangsters at an early age and climbs the ranks of a Mafia family under the guidance of Jimmy Conway.",
     "year": 1990,
     "rating": 8.4,
-    "genre": ["Drama", "Crime"]
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 637,
@@ -204,7 +280,10 @@
     "description": "A touching story of an Italian book seller of Jewish ancestry who lives in his own little fairy tale. His creative and happy life would come to an abrupt halt when his entire family is deported to a concentration camp during World War II. While locked up he tries to convince his son that the whole thing is just a game.",
     "year": 1997,
     "rating": 8.4,
-    "genre": ["Comedy", "Drama"]
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "id": 11216,
@@ -213,7 +292,10 @@
     "description": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
     "year": 1988,
     "rating": 8.4,
-    "genre": ["Drama", "Romance"]
+    "genre": [
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "id": 539,
@@ -222,7 +304,11 @@
     "description": "When larcenous real estate clerk Marion Crane goes on the lam with a wad of cash and hopes of starting a new life, she ends up at the notorious Bates Motel, where manager Norman Bates cares for his housebound mother. The place seems quirky, but fine… until Marion decides to take a shower.",
     "year": 1960,
     "rating": 8.4,
-    "genre": ["Horror", "Drama", "Thriller"]
+    "genre": [
+      "Horror",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "id": 510,
@@ -231,7 +317,9 @@
     "description": "A petty criminal fakes insanity to serve his sentence in a mental ward rather than prison. He soon finds himself as a leader to the other patients—and an enemy to the cruel, controlling Nurse Ratched.",
     "year": 1975,
     "rating": 8.4,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 629,
@@ -240,7 +328,11 @@
     "description": "Five criminals meet in a police lineup, and decide to pull off a heist together. The heist seems simple at first, but when things go wrong, the men are forced to turn on each other in order to survive.",
     "year": 1995,
     "rating": 8.4,
-    "genre": ["Drama", "Crime", "Thriller"]
+    "genre": [
+      "Drama",
+      "Crime",
+      "Thriller"
+    ]
   },
   {
     "id": 311,
@@ -249,7 +341,9 @@
     "description": "After a riot, three young friends from the banlieues of Paris, a Jew, an Arab and a black man, wander through their city. During the riot, a friend of them was seriously injured by a policeman. One of them finds a police pistol and promises to take revenge if his friend dies.",
     "year": 1995,
     "rating": 8.4,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 807,
@@ -258,7 +352,11 @@
     "description": "Two homicide detectives are on a desperate hunt for a serial killer who justifies his crimes as absolution for the world's ignorance of the Seven Deadly Sins. The movie takes us from the tortured remains of one victim to the next as the sociopathic \"John Doe\" sermonizes to Detectives Somerset and Mills -- one retiring, the other just starting out -- about the evils of the world.",
     "year": 1995,
     "rating": 8.4,
-    "genre": ["Crime", "Mystery", "Thriller"]
+    "genre": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ]
   },
   {
     "id": 598,
@@ -267,7 +365,10 @@
     "description": "In the poverty-stricken favelas of Rio de Janeiro in the 1970s, two young men choose different paths. Rocket is a budding photographer who documents the increasing drug-related violence in his neighborhood. José \"Zé\" Pequeno is an ambitious drug dealer who uses Rocket and his photos as a way to increase his fame as a turf war erupts with his rival, \"Knockout Ned\".",
     "year": 2002,
     "rating": 8.4,
-    "genre": ["Drama", "Crime"]
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 4935,
@@ -276,7 +377,11 @@
     "description": "Sophie, a young milliner, is turned into an old woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
     "year": 2004,
     "rating": 8.4,
-    "genre": ["Fantasy", "Animation", "Adventure"]
+    "genre": [
+      "Fantasy",
+      "Animation",
+      "Adventure"
+    ]
   },
   {
     "id": 105,
@@ -285,7 +390,11 @@
     "description": "Eighties teenager Marty McFly is accidentally sent back in time to 1955 in a plutonium-powered DeLorean \"time machine\" invented by his crazy scientist friend Doc Brown.",
     "year": 1985,
     "rating": 8.3,
-    "genre": ["Adventure", "Comedy", "Science Fiction"]
+    "genre": [
+      "Adventure",
+      "Comedy",
+      "Science Fiction"
+    ]
   },
   {
     "id": 14537,
@@ -294,7 +403,11 @@
     "description": "Down-on-his-luck swordsman Hanshiro Tsugumo arrives at the estate of Lord Iyi and begs to commit ritual suicide on the property. But when the lord reveals the tragic fate of the last samurai to make such a request, Tsugumo is forced to rethink his decision.",
     "year": 1962,
     "rating": 8.3,
-    "genre": ["Action", "Drama", "History"]
+    "genre": [
+      "Action",
+      "Drama",
+      "History"
+    ]
   },
   {
     "id": 12477,
@@ -303,7 +416,11 @@
     "description": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
     "year": 1988,
     "rating": 8.4,
-    "genre": ["Animation", "Drama", "War"]
+    "genre": [
+      "Animation",
+      "Drama",
+      "War"
+    ]
   },
   {
     "id": 157336,
@@ -312,7 +429,11 @@
     "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
     "year": 2014,
     "rating": 8.4,
-    "genre": ["Adventure", "Drama", "Science Fiction"]
+    "genre": [
+      "Adventure",
+      "Drama",
+      "Science Fiction"
+    ]
   },
   {
     "id": 324857,
@@ -321,7 +442,12 @@
     "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the other Spider-Man. Soon, he meets alternate versions of himself and gets embroiled in an epic battle to save the multiverse.",
     "year": 2018,
     "rating": 8.4,
-    "genre": ["Action", "Adventure", "Animation", "Science Fiction"]
+    "genre": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ]
   },
   {
     "id": 372754,
@@ -330,7 +456,10 @@
     "description": "Rihito Sajo, an honor student with a perfect score on the entrance exam and Hikaru Kusakabe, in a band and popular among girls, would have never crossed paths. Until one day they started talking at the practice for the chorus festival. After school, the two meet regularly, as Hikaru helps Rihito to improve his singing skills. While they listen to each other's voice and harmonize, their hearts start to beat together.",
     "year": 2016,
     "rating": 8.3,
-    "genre": ["Romance", "Animation"]
+    "genre": [
+      "Romance",
+      "Animation"
+    ]
   },
   {
     "id": 696374,
@@ -339,7 +468,9 @@
     "description": "An intriguing and sinful exploration of seduction, forbidden love, and redemption, Gabriel's Inferno is a captivating and wildly passionate tale of one man's escape from his own personal hell as he tries to earn the impossible--forgiveness and love.",
     "year": 2020,
     "rating": 8.3,
-    "genre": ["Romance"]
+    "genre": [
+      "Romance"
+    ]
   },
   {
     "id": 569094,
@@ -348,7 +479,12 @@
     "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "year": 2023,
     "rating": 8.3,
-    "genre": ["Action", "Adventure", "Animation", "Science Fiction"]
+    "genre": [
+      "Action",
+      "Adventure",
+      "Animation",
+      "Science Fiction"
+    ]
   },
   {
     "id": 432517,
@@ -357,7 +493,13 @@
     "description": "Kyuta, a boy living in Shibuya, and Kumatetsu, a lonesome beast from Jutengai, an imaginary world. One day, Kyuta forays into the imaginary world and, as he's looking for his way back, meets Kumatetsu, who becomes his spirit guide. That encounter leads them to many adventures.",
     "year": 2015,
     "rating": 8.3,
-    "genre": ["Fantasy", "Action", "Adventure", "Animation", "Drama"]
+    "genre": [
+      "Fantasy",
+      "Action",
+      "Adventure",
+      "Animation",
+      "Drama"
+    ]
   },
   {
     "id": 255709,
@@ -366,7 +508,9 @@
     "description": "After 8-year-old So-won is violently assaulted, her family tries to help her heal while coping with their own rage and grief.",
     "year": 2013,
     "rating": 8.3,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 603,
@@ -375,7 +519,10 @@
     "description": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
     "year": 1999,
     "rating": 8.3,
-    "genre": ["Action", "Science Fiction"]
+    "genre": [
+      "Action",
+      "Science Fiction"
+    ]
   },
   {
     "id": 11,
@@ -384,7 +531,11 @@
     "description": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the lovable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
     "year": 1977,
     "rating": 8.3,
-    "genre": ["Adventure", "Action", "Science Fiction"]
+    "genre": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ]
   },
   {
     "id": 40096,
@@ -393,7 +544,11 @@
     "description": "The lively João Grilo and the sly Chicó are poor guys living in the hinterland who cheat a bunch of people in a small Northeast Brazil town. But when they die, they have to be judged by Christ, the Devil and the Virgin Mary, before they are admitted to paradise.",
     "year": 2000,
     "rating": 8.3,
-    "genre": ["Comedy", "Adventure", "Fantasy"]
+    "genre": [
+      "Comedy",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "id": 335984,
@@ -402,7 +557,10 @@
     "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
     "year": 2017,
     "rating": 7.5,
-    "genre": ["Science Fiction", "Drama"]
+    "genre": [
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "id": 1891,
@@ -411,7 +569,11 @@
     "description": "The epic saga continues as Luke Skywalker, in hopes of defeating the evil Galactic Empire, learns the ways of the Jedi from aging master Yoda. But Darth Vader is more determined than ever to capture Luke. Meanwhile, rebel leader Princess Leia, cocky Han Solo, Chewbacca, and droids C-3PO and R2-D2 are thrown into various stages of capture, betrayal and despair.",
     "year": 1980,
     "rating": 8.3,
-    "genre": ["Adventure", "Action", "Science Fiction"]
+    "genre": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ]
   },
   {
     "id": 339403,
@@ -420,7 +582,11 @@
     "description": "A Japanese con man recruits a Korean street thief to help him defraud a wealthy heiress. But the plan takes an unexpected turn when the thief begins to fall for the heiress.",
     "year": 2016,
     "rating": 8.3,
-    "genre": ["Romance", "Thriller", "Drama"]
+    "genre": [
+      "Romance",
+      "Thriller",
+      "Drama"
+    ]
   },
   {
     "id": 283566,
@@ -429,7 +595,12 @@
     "description": "The story of Togo, the sled dog who led the 1925 serum run, but was considered by most to be too small and weak to lead such an intense race.",
     "year": 2019,
     "rating": 8.3,
-    "genre": ["Adventure", "History", "Family", "Drama"]
+    "genre": [
+      "Adventure",
+      "History",
+      "Family",
+      "Drama"
+    ]
   },
   {
     "id": 299536,
@@ -438,7 +609,11 @@
     "description": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
     "year": 2018,
     "rating": 8.3,
-    "genre": ["Adventure", "Action", "Science Fiction"]
+    "genre": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ]
   },
   {
     "id": 523638,
@@ -447,7 +622,12 @@
     "description": "German artist Kurt Barnert has escaped East Germany and now lives in West Germany, but is tormented by his childhood under the Nazis and the GDR-regime.",
     "year": 2018,
     "rating": 8.3,
-    "genre": ["Drama", "History", "Romance", "Thriller"]
+    "genre": [
+      "Drama",
+      "History",
+      "Romance",
+      "Thriller"
+    ]
   },
   {
     "id": 73017,
@@ -456,7 +636,10 @@
     "description": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
     "year": 1984,
     "rating": 8.3,
-    "genre": ["Drama", "Crime"]
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 128,
@@ -465,7 +648,11 @@
     "description": "Ashitaka, a prince of the disappearing Ainu people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, an ambitious entrepreneur whose iron foundry threatens the natural world.",
     "year": 1997,
     "rating": 8.3,
-    "genre": ["Adventure", "Fantasy", "Animation"]
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Animation"
+    ]
   },
   {
     "id": 857,
@@ -474,7 +661,11 @@
     "description": "As U.S. troops storm the beaches of Normandy, three brothers lie dead on the battlefield, with a fourth trapped behind enemy lines. Ranger captain John Miller and seven men are tasked with penetrating German-held territory and bringing the boy home.",
     "year": 1998,
     "rating": 8.2,
-    "genre": ["Drama", "History", "War"]
+    "genre": [
+      "Drama",
+      "History",
+      "War"
+    ]
   },
   {
     "id": 441130,
@@ -483,7 +674,11 @@
     "description": "Class 1-A visits Nabu Island where they finally get to do some real hero work. The place is so peaceful that it's more like a vacation … until they're attacked by a villain with an unfathomable Quirk! His power is eerily familiar, and it looks like Shigaraki had a hand in the plan. But with All Might retired and citizens' lives on the line, there's no time for questions. Deku and his friends are the next generation of heroes, and they're the island's only hope.",
     "year": 2019,
     "rating": 8.3,
-    "genre": ["Action", "Animation", "Fantasy"]
+    "genre": [
+      "Action",
+      "Animation",
+      "Fantasy"
+    ]
   },
   {
     "id": 704264,
@@ -492,7 +687,12 @@
     "description": "When five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?",
     "year": 2022,
     "rating": 8.3,
-    "genre": ["Animation", "Comedy", "Romance", "Drama"]
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Romance",
+      "Drama"
+    ]
   },
   {
     "id": 101,
@@ -501,7 +701,11 @@
     "description": "Léon, the top hit man in New York, has little regard for his life. Mathilda, a 12-year-old girl, has been accidentally orphaned by a corrupt DEA agent. By a stroke of luck, she becomes Léon's apprentice. Between shootouts, they form a bond that will forever change both their lives.",
     "year": 1994,
     "rating": 8.3,
-    "genre": ["Crime", "Drama", "Action"]
+    "genre": [
+      "Crime",
+      "Drama",
+      "Action"
+    ]
   },
   {
     "id": 652837,
@@ -510,7 +714,9 @@
     "description": "A son's journey to fulfill his father's last wish, which is to be buried in the village where he was born. The problem is that they are enemies of the village and are not welcome there. This journey becomes an odyssey of a father and son who are reconciled with the past. The return to the house has a cathartic effect on the characters.",
     "year": 2019,
     "rating": 8.3,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 537061,
@@ -519,7 +725,11 @@
     "description": "In 1950, amidst the ravages of the Korean War, Sergeant Süleyman stumbles upon a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, this little girl captures the heart of Süleyman, who risks his own life to save her, smuggling her into his army base and out of harm’s way. Not knowing her name and unable to communicate with her, Süleyman names her Ayla, in reminiscence of the moon on the fateful night during which they met. The two form an instantaneous and inseparable bond that transcends language and culture.",
     "year": 2017,
     "rating": 8.3,
-    "genre": ["War", "History", "Drama"]
+    "genre": [
+      "War",
+      "History",
+      "Drama"
+    ]
   },
   {
     "id": 378064,
@@ -528,7 +738,11 @@
     "description": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
     "year": 2016,
     "rating": 8.3,
-    "genre": ["Animation", "Drama", "Romance"]
+    "genre": [
+      "Animation",
+      "Drama",
+      "Romance"
+    ]
   },
   {
     "id": 530915,
@@ -537,7 +751,11 @@
     "description": "At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.",
     "year": 2019,
     "rating": 8.0,
-    "genre": ["War", "Drama", "History"]
+    "genre": [
+      "War",
+      "Drama",
+      "History"
+    ]
   },
   {
     "id": 7345,
@@ -546,7 +764,9 @@
     "description": "Ruthless silver miner, turned oil prospector, Daniel Plainview moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
     "year": 2007,
     "rating": 8.1,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 24,
@@ -555,7 +775,10 @@
     "description": "An assassin is shot by her ruthless employer, Bill, and other members of their assassination circle – but she lives to plot her vengeance.",
     "year": 2003,
     "rating": 8.0,
-    "genre": ["Action", "Crime"]
+    "genre": [
+      "Action",
+      "Crime"
+    ]
   },
   {
     "id": 244786,
@@ -564,7 +787,10 @@
     "description": "Under the direction of a ruthless instructor, a talented young drummer begins to pursue perfection at any cost, even his humanity.",
     "year": 2014,
     "rating": 8.4,
-    "genre": ["Drama", "Music"]
+    "genre": [
+      "Drama",
+      "Music"
+    ]
   },
   {
     "id": 49051,
@@ -573,7 +799,11 @@
     "description": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
     "year": 2012,
     "rating": 7.3,
-    "genre": ["Adventure", "Fantasy", "Action"]
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Action"
+    ]
   },
   {
     "id": 118340,
@@ -582,7 +812,11 @@
     "description": "Light years from Earth, 26 years after being abducted, Peter Quill finds himself the prime target of a manhunt after discovering an orb wanted by Ronan the Accuser.",
     "year": 2014,
     "rating": 7.9,
-    "genre": ["Action", "Science Fiction", "Adventure"]
+    "genre": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "id": 99861,
@@ -591,7 +825,11 @@
     "description": "When Tony Stark tries to jumpstart a dormant peacekeeping program, things go awry and Earth’s Mightiest Heroes are put to the ultimate test as the fate of the planet hangs in the balance. As the villainous Ultron emerges, it is up to The Avengers to stop him from enacting his terrible plans, and soon uneasy alliances and unexpected action pave the way for an epic and unique global adventure.",
     "year": 2015,
     "rating": 7.3,
-    "genre": ["Action", "Adventure", "Science Fiction"]
+    "genre": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
   },
   {
     "id": 102899,
@@ -600,7 +838,11 @@
     "description": "The story of the miraculous evacuation of Allied soldiers from Belgium, Britain, Canada and France, who were cut off and surrounded by the German army from the beaches and harbor of Dunkirk, France, between May 26th and June 4th 1940, during the Battle of France in World War II.",
     "year": 2017,
     "rating": 7.5,
-    "genre": ["War", "Action", "Drama"]
+    "genre": [
+      "War",
+      "Action",
+      "Drama"
+    ]
   },
   {
     "id": 12,
@@ -609,7 +851,10 @@
     "description": "A clown fish named Marlin lives in the Great Barrier Reef and loses his son, Nemo, after he ventures into the open sea, despite his father's constant warnings about many of the ocean's dangers. Nemo is abducted by a boat and netted up and sent to a dentist's office in Sydney. So, while Marlin ventures off to try to retrieve Nemo, Marlin meets a fish named Dory, a blue tang suffering from short-term memory loss. The companions travel a great distance, encountering various dangerous sea creatures such as sharks, anglerfish and jellyfish, in order to rescue Nemo from the dentist's office, which is situated by Sydney Harbour.",
     "year": 2003,
     "rating": 7.8,
-    "genre": ["Animation", "Family"]
+    "genre": [
+      "Animation",
+      "Family"
+    ]
   },
   {
     "id": 354912,
@@ -618,7 +863,14 @@
     "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
     "year": 2017,
     "rating": 8.2,
-    "genre": ["Family", "Animation", "Fantasy", "Music", "Comedy", "Adventure"]
+    "genre": [
+      "Family",
+      "Animation",
+      "Fantasy",
+      "Music",
+      "Comedy",
+      "Adventure"
+    ]
   },
   {
     "id": 106646,
@@ -627,7 +879,11 @@
     "description": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
     "year": 2013,
     "rating": 8.0,
-    "genre": ["Crime", "Drama", "Comedy"]
+    "genre": [
+      "Crime",
+      "Drama",
+      "Comedy"
+    ]
   },
   {
     "id": 177572,
@@ -636,7 +892,13 @@
     "description": "The special bond that develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
     "year": 2014,
     "rating": 7.8,
-    "genre": ["Action", "Family", "Animation", "Adventure", "Comedy"]
+    "genre": [
+      "Action",
+      "Family",
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ]
   },
   {
     "id": 872,
@@ -645,7 +907,11 @@
     "description": "In 1927 Hollywood, a silent film production company and cast make a difficult transition to sound.",
     "year": 1952,
     "rating": 8.1,
-    "genre": ["Comedy", "Music", "Romance"]
+    "genre": [
+      "Comedy",
+      "Music",
+      "Romance"
+    ]
   },
   {
     "id": 78,
@@ -654,7 +920,11 @@
     "description": "In the smog-choked dystopian Los Angeles of 2019, blade runner Rick Deckard is called out of retirement to terminate a quartet of replicants who have escaped to Earth seeking their creator for a way to extend their short life spans.",
     "year": 1982,
     "rating": 7.9,
-    "genre": ["Science Fiction", "Drama", "Thriller"]
+    "genre": [
+      "Science Fiction",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "id": 8392,
@@ -663,7 +933,11 @@
     "description": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
     "year": 1988,
     "rating": 8.1,
-    "genre": ["Fantasy", "Animation", "Family"]
+    "genre": [
+      "Fantasy",
+      "Animation",
+      "Family"
+    ]
   },
   {
     "id": 109445,
@@ -672,7 +946,11 @@
     "description": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.",
     "year": 2013,
     "rating": 7.3,
-    "genre": ["Animation", "Family", "Adventure"]
+    "genre": [
+      "Animation",
+      "Family",
+      "Adventure"
+    ]
   },
   {
     "id": 269149,
@@ -681,7 +959,12 @@
     "description": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
     "year": 2016,
     "rating": 7.7,
-    "genre": ["Animation", "Adventure", "Family", "Comedy"]
+    "genre": [
+      "Animation",
+      "Adventure",
+      "Family",
+      "Comedy"
+    ]
   },
   {
     "id": 640146,
@@ -690,7 +973,13 @@
     "description": "A quirky, dysfunctional family's road trip is upended when they find themselves in the middle of the robot apocalypse and suddenly become humanity's unlikeliest last hope.",
     "year": 2021,
     "rating": 7.9,
-    "genre": ["Animation", "Science Fiction", "Comedy", "Family", "Adventure"]
+    "genre": [
+      "Animation",
+      "Science Fiction",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ]
   },
   {
     "id": 152601,
@@ -699,7 +988,11 @@
     "description": "In the not so distant future, Theodore, a lonely writer purchases a new operating system designed to meet his every needs. To Theordore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
     "year": 2013,
     "rating": 7.9,
-    "genre": ["Romance", "Science Fiction", "Drama"]
+    "genre": [
+      "Romance",
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "id": 9,
@@ -708,7 +1001,11 @@
     "description": "In the year 10191, a spice called melange is the most valuable substance known in the universe, and its only source is the desert planet Arrakis. A royal decree awards Arrakis to Duke Leto Atreides and ousts his bitter enemies, the Harkonnens. However, when the Harkonnens violently seize back their fiefdom, it is up to Paul, Leto's son, to lead the Fremen, the natives of Arrakis, in a battle for control of the planet and its spice.",
     "year": 1984,
     "rating": 6.3,
-    "genre": ["Science Fiction", "Action", "Adventure"]
+    "genre": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "id": 508442,
@@ -717,7 +1014,14 @@
     "description": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful gig at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
     "year": 2020,
     "rating": 8.0,
-    "genre": ["Family", "Animation", "Comedy", "Drama", "Music", "Fantasy"]
+    "genre": [
+      "Family",
+      "Animation",
+      "Comedy",
+      "Drama",
+      "Music",
+      "Fantasy"
+    ]
   },
   {
     "id": 1585,
@@ -726,7 +1030,12 @@
     "description": "The Fellowship of the Ring embark on a journey to destroy the One Ring and end Sauron's reign over Middle-earth.",
     "year": 1978,
     "rating": 6.6,
-    "genre": ["Drama", "Animation", "Adventure", "Fantasy"]
+    "genre": [
+      "Drama",
+      "Animation",
+      "Adventure",
+      "Fantasy"
+    ]
   },
   {
     "id": 284054,
@@ -735,7 +1044,11 @@
     "description": "King T'Challa returns home to the reclusive, technologically advanced African nation of Wakanda to serve as his country's new leader. However, T'Challa soon finds that he is challenged for the throne by factions within his own country as well as without. Using powers reserved to Wakandan kings, T'Challa assumes the Black Panther mantle to join with girlfriend Nakia, the queen-mother, his princess-kid sister, members of the Dora Milaje (the Wakandan 'special forces') and an American secret agent, to prevent Wakanda from being dragged into a world war.",
     "year": 2018,
     "rating": 7.4,
-    "genre": ["Action", "Adventure", "Science Fiction"]
+    "genre": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
   },
   {
     "id": 76341,
@@ -744,7 +1057,11 @@
     "description": "An apocalyptic story set in the furthest reaches of our planet, in a stark desert landscape where humanity is broken, and most everyone is crazed fighting for the necessities of life. Within this world exist two rebels on the run who just might be able to restore order.",
     "year": 2015,
     "rating": 7.6,
-    "genre": ["Action", "Adventure", "Science Fiction"]
+    "genre": [
+      "Action",
+      "Adventure",
+      "Science Fiction"
+    ]
   },
   {
     "id": 108,
@@ -753,7 +1070,10 @@
     "description": "In a near-future Britain, young Alexander DeLarge and his pals get their kicks beating and raping anyone they please. When not destroying the lives of others, Alex swoons to the music of Beethoven. The state, eager to crack down on juvenile crime, gives an incarcerated Alex the option to undergo an invasive procedure that'll rob him of his violent urges but also his free will.",
     "year": 1971,
     "rating": 8.2,
-    "genre": ["Science Fiction", "Drama"]
+    "genre": [
+      "Science Fiction",
+      "Drama"
+    ]
   },
   {
     "id": 271110,
@@ -762,7 +1082,11 @@
     "description": "Following the events of Age of Ultron, the collective governments of the world pass an act designed to regulate all superhuman activity. This polarizes opinion amongst the Avengers, causing two factions to side with Iron Man or Captain America, which causes an epic battle between former allies.",
     "year": 2016,
     "rating": 7.4,
-    "genre": ["Adventure", "Action", "Science Fiction"]
+    "genre": [
+      "Adventure",
+      "Action",
+      "Science Fiction"
+    ]
   },
   {
     "id": 14160,
@@ -771,7 +1095,12 @@
     "description": "Carl Fredricksen spent his entire life dreaming of exploring the globe and experiencing life to its fullest. But at age 78, life seems to have passed him by, until a twist of fate (and a persistent 8-year old Wilderness Explorer named Russell) gives him a new lease on life.",
     "year": 2009,
     "rating": 7.9,
-    "genre": ["Animation", "Comedy", "Family", "Adventure"]
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Adventure"
+    ]
   },
   {
     "id": 13590,
@@ -780,7 +1109,12 @@
     "description": "When a crime brings them back to L.A., fugitive ex-con Dom Toretto reignites his feud with agent Brian O'Conner. But as they are forced to confront a shared enemy, Dom and Brian must give in to an uncertain new trust if they hope to outmaneuver him. And from convoy heists to precision tunnel crawls across international lines, two men will find the best way to get revenge: push the limits of what's possible behind the wheel.",
     "year": 2009,
     "rating": 6.6,
-    "genre": ["Action", "Crime", "Drama", "Thriller"]
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   },
   {
     "id": 11324,
@@ -789,7 +1123,11 @@
     "description": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by his troubling visions and also by the hospital's obstinate doctors.",
     "year": 2010,
     "rating": 8.2,
-    "genre": ["Drama", "Thriller", "Mystery"]
+    "genre": [
+      "Drama",
+      "Thriller",
+      "Mystery"
+    ]
   },
   {
     "id": 284053,
@@ -798,7 +1136,12 @@
     "description": "Thor is imprisoned on the other side of the universe and finds himself in a race against time to get back to Asgard to stop Ragnarok, the destruction of his homeworld and the end of Asgardian civilization, at the hands of an all-powerful new threat, the ruthless Hela.",
     "year": 2017,
     "rating": 7.6,
-    "genre": ["Action", "Adventure", "Fantasy", "Science Fiction"]
+    "genre": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Science Fiction"
+    ]
   },
   {
     "id": 16869,
@@ -807,7 +1150,12 @@
     "description": "In Nazi-occupied France during World War II, a group of Jewish-American soldiers known as \"The Basterds\" are chosen specifically to spread fear throughout the Third Reich by scalping and brutally killing Nazis. The Basterds, lead by Lt. Aldo Raine soon cross paths with a French-Jewish teenage girl who runs a movie theater in Paris which is targeted by the soldiers.",
     "year": 2009,
     "rating": 8.2,
-    "genre": ["Drama", "Action", "Thriller", "War"]
+    "genre": [
+      "Drama",
+      "Action",
+      "Thriller",
+      "War"
+    ]
   },
   {
     "id": 1726,
@@ -816,7 +1164,11 @@
     "description": "After being held captive in an Afghan cave, billionaire engineer Tony Stark creates a unique weaponized suit of armor to fight evil.",
     "year": 2008,
     "rating": 7.6,
-    "genre": ["Action", "Science Fiction", "Adventure"]
+    "genre": [
+      "Action",
+      "Science Fiction",
+      "Adventure"
+    ]
   },
   {
     "id": 120467,
@@ -825,7 +1177,10 @@
     "description": "The Grand Budapest Hotel tells of a legendary concierge at a famous hotel from the fictional Republic of Zubrowka between the first and second World Wars, and the lobby boy who becomes his most trusted friend.",
     "year": 2014,
     "rating": 8.0,
-    "genre": ["Comedy", "Drama"]
+    "genre": [
+      "Comedy",
+      "Drama"
+    ]
   },
   {
     "id": 76600,
@@ -834,7 +1189,11 @@
     "description": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
     "year": 2022,
     "rating": 7.6,
-    "genre": ["Science Fiction", "Action", "Adventure"]
+    "genre": [
+      "Science Fiction",
+      "Action",
+      "Adventure"
+    ]
   },
   {
     "id": 14,
@@ -843,7 +1202,9 @@
     "description": "Lester Burnham, a depressed suburban father in a mid-life crisis, decides to turn his hectic life around after developing an infatuation with his daughter's attractive friend.",
     "year": 1999,
     "rating": 8.0,
-    "genre": ["Drama"]
+    "genre": [
+      "Drama"
+    ]
   },
   {
     "id": 18,
@@ -852,7 +1213,13 @@
     "description": "In 2257, a taxi driver is unintentionally given the task of saving a young girl who is part of the key that will ensure the survival of humanity.",
     "year": 1997,
     "rating": 7.5,
-    "genre": ["Adventure", "Fantasy", "Action", "Thriller", "Science Fiction"]
+    "genre": [
+      "Adventure",
+      "Fantasy",
+      "Action",
+      "Thriller",
+      "Science Fiction"
+    ]
   },
   {
     "id": 2062,
@@ -861,7 +1228,12 @@
     "description": "Remy, a resident of Paris, appreciates good food and has quite a sophisticated palate. He would love to become a chef so he can create and enjoy culinary masterpieces to his heart's delight. The only problem is, Remy is a rat. When he winds up in the sewer beneath one of Paris' finest restaurants, the rodent gourmet finds himself ideally placed to realize his dream.",
     "year": 2007,
     "rating": 7.8,
-    "genre": ["Animation", "Comedy", "Family", "Fantasy"]
+    "genre": [
+      "Animation",
+      "Comedy",
+      "Family",
+      "Fantasy"
+    ]
   },
   {
     "id": 361743,
@@ -870,7 +1242,10 @@
     "description": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
     "year": 2022,
     "rating": 8.2,
-    "genre": ["Action", "Drama"]
+    "genre": [
+      "Action",
+      "Drama"
+    ]
   },
   {
     "id": 114,
@@ -879,7 +1254,10 @@
     "description": "When a millionaire wheeler-dealer enters a business contract with a Hollywood hooker Vivian Ward, he loses his heart in the bargain.",
     "year": 1990,
     "rating": 7.5,
-    "genre": ["Romance", "Comedy"]
+    "genre": [
+      "Romance",
+      "Comedy"
+    ]
   },
   {
     "id": 103,
@@ -888,7 +1266,10 @@
     "description": "A mentally unstable Vietnam War veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feed his urge for violent action.",
     "year": 1976,
     "rating": 8.2,
-    "genre": ["Crime", "Drama"]
+    "genre": [
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "id": 28,
@@ -897,7 +1278,10 @@
     "description": "At the height of the Vietnam war, Captain Benjamin Willard is sent on a dangerous mission that, officially, \"does not exist, nor will it ever exist.\" His goal is to locate - and eliminate - a mysterious Green Beret Colonel named Walter Kurtz, who has been leading his personal army on illegal guerrilla missions into enemy territory.",
     "year": 1979,
     "rating": 8.2,
-    "genre": ["Drama", "War"]
+    "genre": [
+      "Drama",
+      "War"
+    ]
   },
   {
     "id": 299534,
@@ -906,7 +1290,11 @@
     "description": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
     "year": 2019,
     "rating": 8.3,
-    "genre": ["Adventure", "Science Fiction", "Action"]
+    "genre": [
+      "Adventure",
+      "Science Fiction",
+      "Action"
+    ]
   },
   {
     "id": 168672,
@@ -915,7 +1303,10 @@
     "description": "A con man, Irving Rosenfeld, along with his seductive partner Sydney Prosser, is forced to work for a wild FBI agent, Richie DiMaso, who pushes them into a world of Jersey powerbrokers and mafia.",
     "year": 2013,
     "rating": 6.8,
-    "genre": ["Drama", "Crime"]
+    "genre": [
+      "Drama",
+      "Crime"
+    ]
   },
   {
     "id": 2,
@@ -924,7 +1315,11 @@
     "description": "Taisto Kasurinen is a Finnish coal miner whose father has just committed suicide and who is framed for a crime he did not commit. In jail, he starts to dream about leaving the country and starting a new life. He escapes from prison but is forced to fight for his stolen identity.",
     "year": 1988,
     "rating": 6.9,
-    "genre": ["Drama", "Crime", "Comedy"]
+    "genre": [
+      "Drama",
+      "Crime",
+      "Comedy"
+    ]
   },
   {
     "id": 3,
@@ -933,7 +1328,11 @@
     "description": "An episode in the life of Nikander, a garbage man, involving the death of a co-worker, an affair and a new job.",
     "year": 1986,
     "rating": 7.2,
-    "genre": ["Drama", "Romance", "Comedy"]
+    "genre": [
+      "Drama",
+      "Romance",
+      "Comedy"
+    ]
   },
   {
     "id": 5,
@@ -942,6 +1341,23 @@
     "description": "It's Ted the Bellhop's first night on the job...and the hotel's very unusual guests are about to place him in some outrageous predicaments. It's a wild night for Ted - who's surrounded by witches, warring wives, partying parents, and gangsters. But if Ted can survive the night, he can probably survive anything.",
     "year": 1995,
     "rating": 5.7,
-    "genre": ["Crime", "Comedy"]
+    "genre": [
+      "Crime",
+      "Comedy"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Judgment Night",
+    "poster": "https://image.tmdb.org/t/p/w500/c7aIsgGZ4S5wBfPzK5zDso4tG2B.jpg",
+    "description": "While racing to a boxing match, Frank, Mike, John and Rey get more than they bargained for.",
+    "year": 1993,
+    "rating": 6.6,
+    "genre": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
   }
 ]
