@@ -943,9 +943,5 @@
     "year": 1995,
     "rating": 5.7,
     "genre": ["Crime", "Comedy"]
-  },
-  {
-    "id": 6,
-    "title": "Judgment Night",
-    "poster": "https://image.tmdb.org/t/p/w500/c7aIsgGZ4S5wBfPzK5zDso4tG2B.jpg",
-    "description": "While racing to a boxing match, Frank, Mike, John and Rey get more than they bargained for.
+  }
+]
